@@ -19,3 +19,4 @@ Overall this application will help the overall league staging and maintenance be
 * [Add match](https://drive.google.com/file/d/1ljCwViUrgBSYvTJ24XT0TKmWmkrPjtro/view?usp=sharing)
 * [Add Team](https://drive.google.com/file/d/1Ejgw8vKkLt7A0L8f_9HDfg8WWCOxjjhM/view?usp=sharing)
 * [Create Tournament](https://drive.google.com/file/d/1rGaChqs4Er1J3iHCDoN_yySPnCchGfQS/view?usp=sharing)
+* [Show Standings] (https://drive.google.com/file/d/1C899AAA4lptAOBu_xiqcG7Sn7B5exCaN/view?usp=sharing)
